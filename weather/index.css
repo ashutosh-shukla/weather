@@ -6,7 +6,7 @@
 body
 {
 
-    background-image: url('./weather.jpg');
+    background-image: url('weather.jpg');
 }
 .container
 {
